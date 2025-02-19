@@ -56,5 +56,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-GitHub: [YourGitHubProfile](https://github.com/yyyx-not-found)  
+GitHub: [Profile](https://github.com/yyyx-not-found)  
 Email: yixiany2@illinois.edu
